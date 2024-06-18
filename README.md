@@ -8,6 +8,7 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 ### Projetos
 
 ### Aulas
+
 - [Primeiro Dia - Visão Geral e Preparação do ambiente SQL](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_01)
 - [Segundo Dia - SQL para Analytics: Nossas primeiras consultas](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_02)
 - [Terceiro Dia - SQL para Analytics: Join and Having in SQL](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_03)
