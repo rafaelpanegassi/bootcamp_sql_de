@@ -7,9 +7,13 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 
 ### Projetos
 
+- [Projeto 01 - Relatório Analítico com SQL - Northwind Database](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_05)
+
 ### Aulas
 
 - [Primeiro Dia - Visão Geral e Preparação do ambiente SQL](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_01)
 - [Segundo Dia - SQL para Analytics: Nossas primeiras consultas](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_02)
 - [Terceiro Dia - SQL para Analytics: Join and Having in SQL](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_03)
 - [Quarto Dia - Windows Function](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_04)
+- [Quinto Dia - Relatório Analítico com SQL - Northwind Database](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_05)
+Day 05 - Project 01 - Analytic Report with SQL - Northwind database
