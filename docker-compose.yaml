@@ -12,7 +12,6 @@ services:
       - postgresql_bin:/usr/lib/postgresql
       - postgresql_data:/var/lib/postgresql/data
       - ./northwind.sql:/docker-entrypoint-initdb.d/northwind.sql
-      - ./files:/files
     ports:
       - 5432:5432
     networks:
@@ -30,7 +29,6 @@ services:
       - postgresql_bin:/usr/lib/postgresql
       - pgadmin_root_prefs:/root/.pgadmin
       - pgadmin_working_dir:/var/lib/pgadmin
-      - ./files:/files
     ports:
       - 5050:5050
     networks:
