@@ -17,3 +17,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Quarto Dia - Windows Function](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_04)
 - [Quinto Dia - Relatório Analítico com SQL - Northwind Database](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_05)
 - [Sexto Dia - CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_06)
+- [Sétimo Dia - Stored Procedures](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_07)
