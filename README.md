@@ -19,3 +19,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Sexto Dia - CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_06)
 - [Sétimo Dia - Create Table e Stored Procedures](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_07)
 - [Oitavo Dia - Stored Procedures](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_08)
+- [Nono Dia - Triggers](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_09)
