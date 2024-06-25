@@ -89,3 +89,6 @@ COMMIT;
 -- Voltar pro T2
 INSERT INTO exemplo (nome) VALUES ('A');
 COMMIT;
+
+
+Conteúdo original está neste [Repositório Oficial](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/Bootcamp%20-%20SQL%20e%20Analytics/Aula-10).
