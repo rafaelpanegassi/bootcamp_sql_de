@@ -8,6 +8,7 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 ### Projetos
 
 - [Projeto 01 - Relatório Analítico com SQL - Northwind Database](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_05)
+- [Projeto 02 - Automação das operações (Stored Procedures e Triggers) - Northwind Database](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_09)
 
 ### Aulas
 
@@ -22,3 +23,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Nono Dia - Triggers](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_09)
 - [Décimo Dia - Transações | ACID](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_10)
 - [Décimo Primeiro Dia - Ordem de Execução e Otimização](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_11)
+- [Décimo Segundo Dia - B-Tree e Index](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_12)
