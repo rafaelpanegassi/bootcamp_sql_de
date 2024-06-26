@@ -21,3 +21,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Oitavo Dia - Stored Procedures](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_08)
 - [Nono Dia - Triggers](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_09)
 - [Décimo Dia - Transações | ACID](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_10)
+- [Décimo Primeiro Dia - Ordem de Execução e Otimização](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_11)
