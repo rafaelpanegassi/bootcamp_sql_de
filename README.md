@@ -24,3 +24,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Décimo Dia - Transações | ACID](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_10)
 - [Décimo Primeiro Dia - Ordem de Execução e Otimização](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_11)
 - [Décimo Segundo Dia - B-Tree e Index](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_12)
+- [Décimo Terceiro Dia - Partições no Banco de Dados](https://github.com/rafaelpanegassi/bootcamp_sql_de/tree/main/aula_12)
